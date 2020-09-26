@@ -1,2 +1,2 @@
-# MLProject-FilghtFarePredcition
-End to ENd ML Project with Deployment and Dockerization
+# MLProject-FilghtFarePrediction
+End to End ML Project with Deployment and Dockerization
